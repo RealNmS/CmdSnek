@@ -104,9 +104,9 @@ def DrawMenu() -> None:
     text = [
         "- CmdSnek: Simple Snake in Python -",
         "",
-        "Press 1 to Start",
-        "Press 2 to Settings",
-        "Press 3 to Exit"
+        "Start Game",
+        "Settings",
+        "Exit"
     ]
     text[menuSelection + 1] = "> " + text[menuSelection + 1]
     DrawBorder(text)
