@@ -5,7 +5,7 @@ Simple but interactive snake game written in Python played in the terminal. I ha
 
 | Main Menu                                                    | Settings                                                   | In Game                                                    |
 |--------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| <img src="https://i.imgur.com/bYqWKPN.png" width="275"/>     | <img src="https://i.imgur.com/bwvVXs5.png" width="275"/>   | <img src="https://i.imgur.com/rs0MXmX.png" width="275"/>   |
+| <img src="https://i.imgur.com/jKMUFHY.png" width="275"/>     | <img src="https://i.imgur.com/bwvVXs5.png" width="275"/>   | <img src="https://i.imgur.com/rs0MXmX.png" width="275"/>   |
 
 - Used Python 3.13.2
 - Took about 8 hours (4h was me just looking at the code not doing anything)
